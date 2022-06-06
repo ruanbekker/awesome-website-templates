@@ -4,6 +4,7 @@ Repository with Free Website Templates
 ## BootstrapMade
 
 - [Multipurpose Template](https://bootstrapmade.com/day-multipurpose-html-template-for-free/)
+- [Resume](https://bootstrapmade.com/free-html-bootstrap-template-my-resume)
 
 ## OnePageLove
 
